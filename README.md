@@ -8,7 +8,6 @@ This project focuses on the analysis of payment transaction data for specific ho
 
 - [Dataset](#dataset)
 - [Key Features](#key-features)
-- [Getting Started](#getting-started)
 - [Usage](#usage)
 
 ## Dataset
@@ -21,15 +20,6 @@ The dataset used in this project contains payment transaction data for Feb 12, 1
 - Data visualization with Matplotlib
 - Proactive issue detection strategies
 - Interactive dashboard creation with Plotly Dash
-
-## Getting Started
-
-To get started with this project, follow these steps:
-
-1. Clone the repository: `git clone https://github.com/YourGitHubUsername/YourRepositoryName.git`
-2. Install the required Python libraries: `pip install -r requirements.txt`
-3. Load the dataset: `python load_data.py`
-4. Analyze the data: `python analyze_data.py`
 
 ## Usage
 
